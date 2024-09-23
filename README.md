@@ -52,6 +52,8 @@ To this moment, I made 3 projects that matter to me:
 
 ---
 
+<!---
+
 ### Pinned :stars:
 
 <div align="center">
@@ -73,6 +75,8 @@ To this moment, I made 3 projects that matter to me:
 </div>
 
 ---
+
+--->
 
 ### Helpful Links (according to readme styling) :city_sunset:
 
