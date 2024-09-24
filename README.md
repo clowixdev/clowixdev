@@ -14,21 +14,23 @@ Nice to meet you through the screen, I am **19** years old Russian programmer an
 <a href="https://t.me/clowixdev">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=red"/></a>
 &nbsp;&nbsp;
+<!---
 <a href="https://discordapp.com/users/385643363807920129/">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=red"/></a>
 &nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/clowixdev/">
     <img src="https://img.shields.io/badge/Steam-333333?style=for-the-badge&logo=steam&logoColor=red"/></a>
+--->
 </div>
 
 ---
 
-### Tools (basic-level) :hammer:
+### Tools :hammer:
 
 <div align="center">
-<img  src="https://skillicons.dev/icons?i=python,c,java,html,css,md&theme=light"/> <br>
-<img src="https://skillicons.dev/icons?i=bots,flask,babel,bootstrap,sqlite&theme=light"/> <br>
-<img src="https://skillicons.dev/icons?i=git,linux,arch,ubuntu,bash&theme=light"/>
+<img  src="https://skillicons.dev/icons?i=python,c,html,css,md&theme=light"/> <br>
+<img src="https://skillicons.dev/icons?i=bots,flask,bootstrap,sqlite&theme=light"/> <br>
+<img src="https://skillicons.dev/icons?i=git,linux,arch,bash&theme=light"/>
 </div>
 
 ---
@@ -37,9 +39,9 @@ Nice to meet you through the screen, I am **19** years old Russian programmer an
 
 To this moment, I made 3 projects that matter to me:
 
-:white_heart: [Samus telegram bot](https://github.com/clowixdev/samus_bot) :white_heart:
-:sparkling_heart: [Shipment Management Service](https://github.com/clowixdev/sms) :sparkling_heart:
-:white_heart: [Space Impact game](https://github.com/clowixdev/ds_coursework) :white_heart:
+#### :milky_way: [Samus telegram bot](https://github.com/clowixdev/samus_bot)
+#### :ocean: [Shipment Management Service](https://github.com/clowixdev/sms)
+#### :cloud: [Space Impact game](https://github.com/clowixdev/ds_coursework) 
 
 ---
 
@@ -78,9 +80,9 @@ To this moment, I made 3 projects that matter to me:
 
 --->
 
-### Helpful Links (according to readme styling) :city_sunset:
+### Helpful Links (readme styling) :city_sunset:
 
-- #### [:cactus: stats section](https://github.com/anuraghazra/github-readme-stats)
-- #### [:panda_face: tools icons](https://github.com/tandpfun/skill-icons)
-- #### [:bulb: badges](https://github.com/antistereotip/Badges-for-GitHub)
-- #### [:gem: md emoji](https://github.com/markdown-templates/markdown-emojis)
+#### [:cactus: Stats section](https://github.com/anuraghazra/github-readme-stats)
+#### [:panda_face: Tools icons](https://github.com/tandpfun/skill-icons)
+#### [:bulb: Badges](https://github.com/antistereotip/Badges-for-GitHub)
+#### [:gem: MD Emoji](https://github.com/markdown-templates/markdown-emojis)
