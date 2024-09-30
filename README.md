@@ -39,9 +39,67 @@ Nice to meet you through the screen, I am **19** years old Russian programmer an
 
 To this moment, I made 3 projects that matter to me:
 
-#### :milky_way: [Samus telegram bot](https://github.com/clowixdev/samus_bot)
-#### :ocean: [Shipment Management Service](https://github.com/clowixdev/sms)
-#### :cloud: [Space Impact game](https://github.com/clowixdev/ds_coursework) 
+<details> 
+<summary><h4 style="display: inline;">&#127756; RRClan Helper bot</h4></summary>
+
+<h5 style="display: inline;">About project&nbsp;&nbsp;&nbsp;</h5><a href="https://github.com/clowixdev/samus_bot">&#128279; repo (private)</a><br>
+
+**Rush Royale Clan Helper (RRCH bot &#129302;)** is created to help clan leaders and officers in communication with clan members. Using this bot, you can create **message templates&#128211;** and send them as you need to all clan members. Also, you can **mention &#128226;** everyone in your Telegram chat with only one command, or you can mention specific player **groups &#128101;** (who can clear fraction fields in **Dragon Event &#128009;**). All this information is stored in clan member's **profile &#129706;** where you can find any desired information.
+
+<div align="center">
+<img src="./images/RRCH1.jpg" style="width: 300px; height: 185px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/RRCH2.jpg" style="width: 300px; height: 185px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+<div align="center">
+<img src="./images/RRCH3.jpg" style="width: 300px; margin-top: 10px; margin-bottom: 10px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/RRCH4.jpg" style="width: 300px; margin-top: 10px; margin-bottom: 18px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+<div align="center">
+<img src="./images/RRCH5.jpg" style="width: 300px; height: 185px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/RRCH6.jpg" style="width: 300px; margin-bottom: 5px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+</details><br>
+
+<details> 
+<summary><h4 style="display: inline;">&#127754; Shipment Management Service</h4></summary>
+
+<h5 style="display: inline;">About project&nbsp;&nbsp;&nbsp;</h5><a href="https://github.com/clowixdev/sms">&#128279; repo (public)</a><br>
+
+**Shipment management system (SMS &#128666;)** is a service that is created to help drivers exclude **paper documents &#128203;** which can be damaged or lost. Manager create shipment in service, **QR-code &#128242;** is being sent to driver and this QR-code contains all needed information and documents in **secured &#128272;** digital format. After shipment is received by endpoint, they can **"Accept shipment &#128260;"** and change shipment status to **"Delivered &#9989;".**
+
+<div align="center">
+<img src="./images/sms1.jpg" style="width: 300px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/sms2.jpg" style="width: 300px; height: 185px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+<div align="center">
+<img src="./images/sms3.jpg" style="width: 300px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/sms4.jpg" style="width: 300px; height: 185px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+</details><br>
+
+<details> 
+<summary><h4 style="display: inline;">&#127747; Space Impact game</h4></summary>
+
+<h5 style="display: inline;">About project&nbsp;&nbsp;&nbsp;</h5><a href="https://github.com/clowixdev/ds_coursework">&#128279; repo (public)</a><br>
+
+This is a copy of old mobile game **Space Impact &#128126;** with our own ideas for some game mechanics. All the development was conducted in **C &#10024;** language with **OpenGL &#127754;**, especially using **freeglut** &#128065;. To load textures, we used **STB_IMAGE** &#9999; library that we found in the Ithernet.
+
+<div align="center">
+<img src="./images/space_impact1.jpg" style="width: 300px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/space_impact2.jpg" style="width: 300px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+<div align="center">
+<img src="./images/space_impact3.jpg" style="width: 300px; margin-right: 20px; border: 6px outset #A4A4A4; border-radius: 10px;">
+<img src="./images/space_impact4.jpg" style="width: 300px; border: 6px outset #A4A4A4; border-radius: 10px;">
+</div>
+
+</details>
 
 ---
 
