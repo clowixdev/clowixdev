@@ -41,7 +41,7 @@ To this moment, I made 3 projects that matter to me:
 <details>
 <summary><strong>&#127756; RRClan Helper bot</strong></summary>
 
-##### About project &nbsp;&nbsp;&nbsp;[&#128279; repo (private)](https://github.com/clowixdev/samus_bot)
+##### About project &nbsp;&nbsp;&nbsp;[&#128279; repo (public)](https://github.com/clowixdev/samus_bot)
 
 **Rush Royale Clan Helper (RRCH bot &#129302;)** is created to help clan leaders and officers in communication with clan members. Using this bot, you can create **message templates&#128211;** and send them as you need to all clan members. Also, you can **mention &#128226;** everyone in your Telegram chat with only one command, or you can mention specific player **groups &#128101;** (who can clear fraction fields in **Dragon Event &#128009;**). All this information is stored in clan member's **profile &#129706;** where you can find any desired information.
 
