@@ -119,6 +119,8 @@ This is a copy of old mobile game **Space Impact &#128126;** with our own ideas 
 
 </details>
 
+<!---
+
 ---
 
 ### Stats :bar_chart:
@@ -129,6 +131,8 @@ This is a copy of old mobile game **Space Impact &#128126;** with our own ideas 
 </div>
 
 ---
+
+--->
 
 <!---
 
