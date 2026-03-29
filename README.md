@@ -9,7 +9,7 @@
 Nice to meet you through the screen, I am **20** years old Russian programmer and I am a second course student of **IC** faculty in **SPBPU**. Can read docs in **ENG** and speak kind of freely, despite my home country.
 
 <div align="center">
-<a href="mailto:clowixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="mailto:mishenevn.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 &nbsp;&nbsp;
 <a href="https://t.me/clowixdev">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=red"/></a>
